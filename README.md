@@ -4,7 +4,7 @@ This is the repo for paper "Synchronizing Key Aspects: Enhancing Vulnerability P
 
 ## extraction_aspects
 
-**trainset.txt**: ``It's the training set of BERT-NER model, used in Bert-ner.ipynb.<br>``
+**trainset.txt**: ``It's the training set of BERT-NER model, used in Bert-ner.ipynb.``<br>
 **Rule-based.py**: ``It's code for Rule-based Matching method.``<br>
 **Bert-ner.ipynb**: ``It's code for the Bert-NER model.``<br>
 
