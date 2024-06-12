@@ -9,6 +9,7 @@ This is the repo for paper "Synchronizing Key Aspects: Enhancing Vulnerability P
 **Bert-ner.ipynb**: It's code for the Bert-NER model.
 
 ## completion_data
+
 **code-based.py**: This is the code for similarity comparison method for the code-based PoC.
 **text-based.py**: This is the code for similarity comparison method for the text-based PoC.
 **poc_content_word2vec_model.bin**: This is the pre-trained model for the word2vec approach.
