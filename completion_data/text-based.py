@@ -27,7 +27,7 @@ def calculate_similarity(vector1, vector2):
 def read_json(name):
     js_path = name
     f = open(js_path, 'r', encoding='latin')
-    f = json.load(f)  # json.load() 这种方法是解析一个文件中的数据
+    f = json.load(f) 
     return f
 
 # Example usage
